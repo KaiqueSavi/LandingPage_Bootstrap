@@ -1,0 +1,27 @@
+
+body {
+  background-color: #f0f8ff;
+}
+.navbar, .footer {
+  background-color: #007bff;
+}
+.navbar-brand, .nav-link, .footer p {
+  color: white;
+}
+.card-body {
+  text-align: center;
+}
+/* Estilo das abas */
+.nav-tabs .nav-link {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+.nav-tabs .nav-link.active {
+  background-color: #0056b3;
+  color: white;
+}
+.nav-tabs .nav-link:hover {
+  background-color: #0056b3;
+  color: white;
+}
